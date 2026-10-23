@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "ZomatoClone",
+    "slug": "zomatoclone",
+    "version": "1.0.0",
+    "scheme": "zomatoclone",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
